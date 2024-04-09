@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
-<h3 align="center">A final-year CS student</h3>
+<h3 align="center">A final year computer science student passionate about machine learning and data science. I’m eager to collaborate on open-source projects and contribute to the tech community!</h3>
 
 - 📫 How to reach me **aamirnazir299@gmail.com**
 
