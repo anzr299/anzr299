@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 <h3 align="center">A final-year CS student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzr299" alt="anzr299" /></a> </p>
-
 - 📫 How to reach me **aamirnazir299@gmail.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1MbI0g0T5tHaLf8tQD5ARfdilpB-qWYNJ/view?usp=sharing)
