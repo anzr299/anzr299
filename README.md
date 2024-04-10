@@ -22,10 +22,10 @@
 
 ## :bar_chart: My Statistics
 <a href="https://github.com/anzr299/github-readme-stats#gh-dark-mode-only">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anzr299&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anzr299&hide_title=true&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anzr299/github-readme-stats#gh-light-mode-only">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anzr299&rank_icon=github&show_icons=true&theme=light#gh-light-mode-only" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anzr299&hide_title=true&rank_icon=github&show_icons=true&theme=light#gh-light-mode-only" />
 </a>
 
 
