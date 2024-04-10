@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 
-- :headphones: A final year computer science student passionate about machine learning and data science. I’m eager to collaborate on open-source projects and contribute to the tech community.
+ :headphones: A final year computer science student passionate about machine learning and data science. I’m eager to collaborate on open-source projects and contribute to the tech community.
 
-- 📫 How to reach me aamirnazir299@gmail.com
+ 📫 How to reach me aamirnazir299@gmail.com
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1MbI0g0T5tHaLf8tQD5ARfdilpB-qWYNJ/view?usp=sharing)
+ 📄 [Know about my experiences](https://drive.google.com/file/d/1MbI0g0T5tHaLf8tQD5ARfdilpB-qWYNJ/view?usp=sharing)
 
 <p><br></p>
 
